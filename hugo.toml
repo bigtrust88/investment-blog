@@ -41,7 +41,7 @@ enableEmoji = true
     weight = 1
   [[menu.main]]
     name = "Posts"
-    url = "/blog/"
+    url = "/posts/"
     weight = 2
   [[menu.main]]
     name = "Archive"
