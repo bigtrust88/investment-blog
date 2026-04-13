@@ -1,5 +1,6 @@
 # Hugo
 /resources/_gen/
+/public/
 *.lock
 
 # IDE
